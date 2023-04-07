@@ -1,0 +1,42 @@
+.check-box{
+    height: 20px;
+    width: 5px;
+    margin-right: 8px;
+    margin-left: 15px;
+    border: 1px solid black;
+    cursor: pointer;
+    transition-duration: 0.4s;
+
+}
+
+.check-box :active{
+    content: "";
+    background: rgba(0,0,0,0.2);
+    transition: all 0.6s ease;
+    transform: rotate(360deg);
+}
+.check-box :active::after{
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+.checkicon{
+    margin-right: 8px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    
+}
+
+.checkicon:active{
+    content: "";
+    background: rgba(0,0,0,0.2);
+    transition: all 0.6s ease;
+    transform: rotate(360deg);
+}
+.checkicon:active::after{
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}

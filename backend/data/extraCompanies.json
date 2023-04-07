@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Palo Alto Networks",
+        "email": "jobs@paloaltonetworks.com",
+        "overview": "Palo Alto Networks, Inc. is an American multinational cybersecurity company with headquarters in Santa Clara, California. The core products is a platform that includes advanced firewalls and cloud-based offerings that extend those firewalls to cover other aspects of security."
+    },
+    {
+        "name": "Uber",
+        "email": "jobs@uber.com",
+        "overview": "Uber Technologies, Inc. (Uber), based in San Francisco, provides mobility as a service/ride-hailing, food delivery/package delivery/couriers via Uber Eats and Postmates, and freight transport."
+    },
+    {
+        "name": "Apple",
+        "email": "jobs@apple.com",
+        "overview": "Apple Inc. is the largest technology company by revenue is the world's biggest company by market capitalization, the fourth-largest personal computer vendor by unit sales and second-largest mobile phone manufacturer."
+    }
+]

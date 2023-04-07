@@ -1,0 +1,12 @@
+.Navigationbar{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nav-icons{
+    background-color: white;
+}
+
+.nav-icons :hover{
+    cursor: pointer;
+}

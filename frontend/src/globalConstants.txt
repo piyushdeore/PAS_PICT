@@ -1,0 +1,10 @@
+
+For Student side ->
+
+backgroundColor : #4839f5
+
+-----------------------------------
+
+For admin side ->
+
+backgroundColor : #E9A630

@@ -1,0 +1,226 @@
+[
+  {
+
+    "company": "Larsen & Toubro",
+    "eligibility": {
+      "tenth": 80,
+      "twelth": 70,
+      "cgpa": 7,
+      "branchesAllowed": ["MECH", "CIVIL"]
+    },
+
+    "jobId": "USB679",
+
+    "jobRole": "Junior Engineer",
+
+    "compensation": {
+      "basicPay": 5,
+      "variablePay": 2
+    },
+
+    "totalRounds": 3,
+    "testDay": "2023-03-01T12:00:00.000Z",
+    "rounds": [
+      {
+        "mode": "ONLINE",
+        "roundType": "OBJECTIVE_ASSESMENT",
+        "roundDate": "2023-03-01T12:00:00.000Z"
+      },
+      { 
+        "mode": "ONLINE",
+        "roundType": "TECHNICAL_INTERVIEW",
+        "roundDate": "2023-03-02T14:00:00.000Z"
+      },
+      {
+        "mode": "OFFLINE",
+        "venue": "Interview Room",
+        "roundType": "HR_INTERVIEW",
+        "roundDate": "2023-03-02T18:00:00.000Z"
+      }
+    ],
+    
+    "jobDescription": "We need someone with strong fundamentals in mechanical engineering",
+    
+    "jobLocation": ["Mumbai", "Bangalore", "Dubai"],
+
+    "testInstruction": "Please attempt test at given time"
+  },
+  {
+
+    "company": "Abott",
+    "eligibility": {
+      "tenth": 70,
+      "twelth": 70,
+      "cgpa": 7,
+      "branchesAllowed": ["CHEM"]
+    },
+
+    "jobId": "ABT473",
+
+    "jobRole": "Junior Researcher",
+
+    "compensation": {
+      "basicPay": 4,
+      "variablePay": 1
+    },
+
+    "totalRounds": 2,
+    "testDay": "2023-03-05T12:00:00.000Z",
+    "rounds": [
+      { 
+        "mode": "ONLINE",
+        "roundType": "TECHNICAL_INTERVIEW",
+        "roundDate": "2023-03-05T14:00:00.000Z"
+      },
+      {
+        "mode": "OFFLINE",
+        "venue": "Interview Room",
+        "roundType": "HR_INTERVIEW",
+        "roundDate": "2023-03-08T18:00:00.000Z"
+      }
+    ],
+    
+    "jobDescription": "We need who is open to research for advances in medicine",
+    
+    "jobLocation": ["Ahmedabad"]
+  },
+  {
+
+    "company": "Google",
+    "eligibility": {
+      "tenth": 80,
+      "twelth": 80,
+      "cgpa": 8,
+      "branchesAllowed": ["COMP", "IT"]
+    },
+
+    "jobId": "GGL493",
+
+    "jobRole": "Software Development Engineer",
+
+    "compensation": {
+      "basicPay": 24,
+      "variablePay": 12
+    },
+
+    "totalRounds": 4,
+    "testDay": "2023-03-10T12:00:00.000Z",
+    "rounds": [
+      {
+        "mode": "ONLINE",
+        "roundType": "OBJECTIVE_ASSESMENT",
+        "roundDate": "2023-03-10T12:00:00.000Z"
+      },
+      { 
+        "mode": "ONLINE",
+        "roundType": "TECHNICAL_INTERVIEW",
+        "roundDate": "2023-03-12T10:00:00.000Z"
+      },
+      { 
+        "mode": "ONLINE",
+        "roundType": "TECHNICAL_INTERVIEW",
+        "roundDate": "2023-03-12T13:00:00.000Z"
+      },
+      {
+        "mode": "ONLINE",
+        "venue": "Interview Room",
+        "roundType": "HR_INTERVIEW",
+        "roundDate": "2023-03-12T17:00:00.000Z"
+      }
+    ],
+    
+    "jobDescription": "Position open for anyone who is strong in computer fundamentals and system design",
+    
+    "jobLocation": ["Bangalore", "Delhi", "New York"]
+  },
+  {
+
+    "company": "Qualcomm",
+    "eligibility": {
+      "tenth": 75,
+      "twelth": 70,
+      "cgpa": 8.5,
+      "branchesAllowed": ["COMP", "ENTC"]
+    },
+
+    "jobId": "QLM382",
+
+    "jobRole": "Electronics Engineer",
+
+    "compensation": {
+      "basicPay": 14,
+      "variablePay": 4
+    },
+
+    "totalRounds": 4,
+    "testDay": "2023-03-14T12:00:00.000Z",
+    "rounds": [
+      {
+        "mode": "ONLINE",
+        "roundType": "OBJECTIVE_ASSESMENT",
+        "roundDate": "2023-03-14T12:00:00.000Z"
+      },
+      { 
+        "mode": "ONLINE",
+        "roundType": "TECHNICAL_INTERVIEW",
+        "roundDate": "2023-03-15T10:00:00.000Z"
+      },
+      { 
+        "mode": "ONLINE",
+        "roundType": "TECHNICAL_INTERVIEW",
+        "roundDate": "2023-03-15T12:00:00.000Z"
+      },
+      {
+        "mode": "ONLINE",
+        "venue": "Interview Room",
+        "roundType": "HR_INTERVIEW",
+        "roundDate": "2023-03-16T11:00:00.000Z"
+      }
+    ],
+    
+    "jobDescription": "Position open for anyone who is strong in core electronics, processors and microcontrollers",
+    
+    "jobLocation": ["Chennai", "Delhi", "Mumbai"]
+  },
+  {
+
+    "company": "Qualcomm",
+    "eligibility": {
+      "tenth": 60,
+      "twelth": 60,
+      "cgpa": 6
+    },
+
+    "jobId": "QLM608",
+
+    "jobRole": "Digital Marketing",
+
+    "compensation": {
+      "basicPay":9,
+      "variablePay": 2
+    },
+
+    "totalRounds": 2,
+    "testDay": "2023-03-18T12:00:00.000Z",
+    "rounds": [
+      {
+        "mode": "ONLINE",
+        "roundType": "OBJECTIVE_ASSESMENT",
+        "roundDate": "2023-03-18T12:00:00.000Z"
+      },
+
+      {
+        "mode": "ONLINE",
+        "venue": "Interview Room",
+        "roundType": "HR_INTERVIEW",
+        "roundDate": "2023-03-18T14:00:00.000Z"
+      }
+    ],
+    
+    "jobDescription": "We need people who are good in SEO and social media analytics",
+    
+    "jobLocation": ["Hyderabad", "Pune", "Kolkata"]
+  }
+]
+
+
